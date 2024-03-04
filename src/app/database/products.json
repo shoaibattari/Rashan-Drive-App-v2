@@ -1,0 +1,13 @@
+[
+    { "S.No": 1, "Item": "Laptop", "Qty": 2 },
+    { "S.No": 2, "Item": "Smartphone", "Qty": 5 },
+    { "S.No": 3, "Item": "Headphones", "Qty": 3 },
+    { "S.No": 4, "Item": "Camera", "Qty": 1 },
+    { "S.No": 5, "Item": "Printer", "Qty": 1 },
+    { "S.No": 6, "Item": "Tablet", "Qty": 2 },
+    { "S.No": 7, "Item": "External Hard Drive", "Qty": 3 },
+    { "S.No": 8, "Item": "Wireless Mouse", "Qty": 4 },
+    { "S.No": 9, "Item": "Gaming Console", "Qty": 1 },
+    { "S.No": 10, "Item": "Monitor", "Qty": 2 }
+  ]
+  
