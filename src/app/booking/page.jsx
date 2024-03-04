@@ -58,7 +58,7 @@ const CardSearch = () => {
     <main>
       <header className="flex">
         <section>
-          <Image src={Logo} width={175} height={50} />
+          <Image src={Logo} width={175} height={50} alt="logo" />
         </section>
         <section className="text-center  space-y-6 mt-3 mb-3">
           <h1 className="text-2xl font-extrabold md:text-4xl">
@@ -85,8 +85,8 @@ const CardSearch = () => {
         </label>
         <button
           onClick={handleSearch}
-          disabled={searchInput.length < 5}
-          className="bg-blue-500 text-white p-2 rounded-lg"
+          disabled={searchInput.length < 1}
+          className=" mx-2 px-4 md:mx-1 md:px-3 bg-blue-500 text-white p-2 rounded-lg"
         >
           Search
         </button>
@@ -174,7 +174,7 @@ const CardSearch = () => {
                 ))}
               </div>
             ) : (
-              <p className="text-red-500">User found but no purchase record.</p>
+              <p className="text-green-500">Loading Bill.......</p>
             )}
           </div>
         )}

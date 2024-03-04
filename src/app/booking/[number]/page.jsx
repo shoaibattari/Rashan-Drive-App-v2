@@ -69,12 +69,12 @@ export default function Page({ params }) {
     setUser(foundUser);
   }, [params.number]);
 
-  useEffect(() => {
-    if (user && selectedArea) {
-      // Save data to API when both user and selectedArea are available
-      saveDataToApi();
-    }
-  }, [user, selectedArea]);
+  // useEffect(() => {
+  //   if (user && selectedArea) {
+  //     // Save data to API when both user and selectedArea are available
+  //     saveDataToApi();
+  //   }
+  // }, [user, selectedArea]);
 
   return (
     <>
@@ -82,7 +82,7 @@ export default function Page({ params }) {
         <div className="container">
           <header className="flex">
             <section>
-              <Image src={Logo} width={175} height={50} />
+              <Image src={Logo} width={175} height={50} alt="logo"/>
             </section>
             <section className="text-center  space-y-6 mt-3 mb-3">
               <h1 className="text-2xl font-extrabold md:text-4xl">
