@@ -7,7 +7,6 @@ import purchases from "../database/purchases.json";
 import Image from "next/image";
 import Logo from "../../../public/omj-logo.png";
 
-
 const CardSearch = () => {
   const [searchInput, setSearchInput] = useState("");
   const [searchResult, setSearchResult] = useState(null);
@@ -72,9 +71,7 @@ const CardSearch = () => {
 
       <div className="md:text-3xl mt-6 p-4 md:p-8 items-center rounded-2xl justify-center bg-slate-700">
         <label className=" mb-4 ">
-          <span className="text-white">
-          Enter Card Number:
-          </span>
+          <span className="text-white">Enter Card Number:</span>
           <input
             type="text"
             value={searchInput}
@@ -85,7 +82,7 @@ const CardSearch = () => {
         </label>
         <button
           onClick={handleSearch}
-          disabled={searchInput.length < 1}
+          // disabled={searchInput.length < 1}
           className=" mx-2 px-4 md:mx-1 md:px-3 bg-blue-500 text-white p-2 rounded-lg"
         >
           Search

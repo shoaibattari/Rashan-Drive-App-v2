@@ -1,13 +1,92 @@
-[
-    { "S.No": 1, "Item": "Laptop", "Qty": 2 },
-    { "S.No": 2, "Item": "Smartphone", "Qty": 5 },
-    { "S.No": 3, "Item": "Headphones", "Qty": 3 },
-    { "S.No": 4, "Item": "Camera", "Qty": 1 },
-    { "S.No": 5, "Item": "Printer", "Qty": 1 },
-    { "S.No": 6, "Item": "Tablet", "Qty": 2 },
-    { "S.No": 7, "Item": "External Hard Drive", "Qty": 3 },
-    { "S.No": 8, "Item": "Wireless Mouse", "Qty": 4 },
-    { "S.No": 9, "Item": "Gaming Console", "Qty": 1 },
-    { "S.No": 10, "Item": "Monitor", "Qty": 2 }
+  [
+    {
+      "S.No": 1,
+      "Item": "Sugar",
+      "Qty": "2 kg."
+    },
+    {
+      "S.No": 2,
+      "Item": "Rice",
+      "Qty": "4 kg"
+    },
+    {
+      "S.No": 3,
+      "Item": "Cooking Oil",
+      "Qty": "3 Ltr."
+    },
+    {
+      "S.No": 4,
+      "Item": "Ghee",
+      "Qty": "1 kg"
+    },
+    {
+      "S.No": 5,
+      "Item": "Atta",
+      "Qty": "5 kg"
+    },
+    {
+      "S.No": 6,
+      "Item": "Tea 200 gm",
+      "Qty": "1 pkt."
+    },
+    {
+      "S.No": 7,
+      "Item": "Dal Chana",
+      "Qty": "1 kg"
+    },
+    {
+      "S.No": 8,
+      "Item": "Black Chana",
+      "Qty": "0.5 kg"
+    },
+    {
+      "S.No": 9,
+      "Item": "White Chana",
+      "Qty": "0.5 kg"
+    },
+    {
+      "S.No": 10,
+      "Item": "Marchi (200 gm)",
+      "Qty": "1 pkt."
+    },
+    {
+      "S.No": 11,
+      "Item": "Haldi (200 gm)",
+      "Qty": "1 pkt."
+    },
+    {
+      "S.No": 12,
+      "Item": "Daniya (200 gm)",
+      "Qty": "1 pkt."
+    },
+    {
+      "S.No": 13,
+      "Item": "Salt (800 gm)",
+      "Qty": "1 pkt."
+    },
+    {
+      "S.No": 14,
+      "Item": "Lal Piaz (200 gm)",
+      "Qty": "1 pkt."
+    },
+    {
+      "S.No": 15,
+      "Item": "Sawiya (150 gm)",
+      "Qty": "1 pkt."
+    },
+    {
+      "S.No": 16,
+      "Item": "Rooh Afza",
+      "Qty": "1 pcs"
+    },
+    {
+      "S.No": 17,
+      "Item": "Besan Atta",
+      "Qty": "1 kg"
+    },
+    {
+      "S.No": 18,
+      "Item": "kajoor",
+      "Qty": "1 pkt."
+    }
   ]
-  

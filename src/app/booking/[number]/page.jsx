@@ -28,6 +28,7 @@ export default function Page({ params }) {
     const invoice = `20242${user.Card.slice(9)}`;
     const date = getCurrentDate();
     const name = user.Name;
+    const id = user.id;
     const card = user.Card;
     const khundi = user.Khundi;
     const area = selectedArea;
@@ -37,6 +38,7 @@ export default function Page({ params }) {
       Invoice: invoice,
       Date: date,
       Name: name,
+      Id: id,
       Card: card,
       Khundi: khundi,
       Area: area,
@@ -82,7 +84,7 @@ export default function Page({ params }) {
         <div className="container">
           <header className="flex">
             <section>
-              <Image src={Logo} width={175} height={50} alt="logo"/>
+              <Image src={Logo} width={175} height={50} alt="logo" />
             </section>
             <section className="text-center  space-y-6 mt-3 mb-3">
               <h1 className="text-2xl font-extrabold md:text-4xl">
@@ -93,24 +95,26 @@ export default function Page({ params }) {
               </h1>
             </section>
           </header>
-          <div>
-            <ReactToPrint
-              trigger={() => (
+          <div className="flex justify-between">
+            <div>
+              <ReactToPrint
+                trigger={() => (
+                  <button className="text-2xl font-bold bg-white text-blue-500 py-2 px-4 rounded-md">
+                    Print Bill
+                  </button>
+                )}
+                content={() => componentRef}
+                documentTitle="OMJ RASHAN BILL"
+                pageStyle="print"
+              />
+            </div>
+            <span>
+              <Link href={"/booking"}>
                 <button className="text-2xl font-bold bg-white text-blue-500 py-2 px-4 rounded-md">
-                  Print Bill
+                  New Order
                 </button>
-              )}
-              content={() => componentRef}
-              documentTitle="OMJ RASHAN BILL"
-              pageStyle="print"
-            />
-          </div>
-          <div>
-            <Link href={"/booking"}>
-              <button className="text-2xl font-bold bg-white text-blue-500 py-2 px-4 rounded-md">
-                New Order
-              </button>
-            </Link>
+              </Link>
+            </span>
           </div>
           <div>
             <div>
@@ -120,11 +124,11 @@ export default function Page({ params }) {
                     Invoice: {`${getCurrentDate()}${user.Card.substring(0, 5)}`}
                   </p>
                   <p>Date: {getCurrentDate()}</p>
-                  <p className="text-2xl">Name: {user.Name}</p>
-                  <p className="md:text-2xl">
+                  <p>Khundi: {user.Khundi}</p>
+                  <p className="text-1xl">Name: {user.Name}</p>
+                  <p className="text-1xl">
                     Card Number:{<br />} {user.Card}
                   </p>
-                  <p>Khundi: {user.Khundi}</p>
                   <div className=" flex content-center items-center">
                     <label
                       htmlFor="areaDropdown"
@@ -145,7 +149,7 @@ export default function Page({ params }) {
                       <option value="Highway">Highway</option>
                     </select>
                   </div>
-                  <p>Package: Mini</p>
+                  {/* <p>Package: Mini</p> */}
                 </div>
               ) : (
                 <p className="text-gray-500">-</p>
@@ -206,7 +210,7 @@ export default function Page({ params }) {
               </ul>
             </div>
             <div className="bg-gray-500 my-2">
-              <p className="text-2xl uppercase italic text-gray-200 px-2 font-bold">
+              <p className="text-1xl uppercase italic text-gray-200 px-2 font-bold">
                 app create by: Shoaib Abdul Sattar Khosa{" "}
               </p>
               <p className="text-1xl uppercase italic text-gray-200 px-2 font-semibold">
@@ -220,17 +224,19 @@ export default function Page({ params }) {
               </p>
               {user ? (
                 <div className="grid grid-cols-2">
-                  <p className="text-1xl">Date: {getCurrentDate()}</p>
-                  <p className="text-1xl">Name: {user.Name}</p>
-                  <p className="text-1xl">Khundi: {user.Khundi}</p>
-                  <p className="text-1xl">
-                    Invoice Number: {`20242${user.Card.slice(9)}`}
-                  </p>
-                </div>
+                <p className="text-1xl">Date: {getCurrentDate()}</p>
+                <p className="text-1xl">Name: {user.Name}</p>
+                <p className="text-1xl">Khundi: {user.Khundi}</p>
+                <p className="text-1xl">
+                  Invoice Number:{" "}
+                  {`${getCurrentDate()}${user.Card.substring(0, 5)}`}
+                </p>
+              </div>
               ) : (
                 <p className="text-gray-500">No user found</p>
               )}
               <p className="text-1xl">Area: {selectedArea || "-"}</p>
+
             </div>
             <div className=" px-4 rounded-md shadow-md bg-green-100 border border-black">
               <p className="text-lg font-semibold underline underline-offset-4 text-center border   ">
@@ -242,7 +248,8 @@ export default function Page({ params }) {
                   <p className="text-1xl">Name: {user.Name}</p>
                   <p className="text-1xl">Khundi: {user.Khundi}</p>
                   <p className="text-1xl">
-                    Invoice Number: {`20242${user.Card.slice(9)}`}
+                    Invoice Number:{" "}
+                    {`${getCurrentDate()}${user.Card.substring(0, 5)}`}
                   </p>
                 </div>
               ) : (

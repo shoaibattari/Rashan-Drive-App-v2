@@ -1,17 +1,2438 @@
 [
     {
-        "Name": "Muhammad Saad",
-        "Card": "13030-93-18822",
-        "Khundi": "Jafrani-B"
+        "id": "00001",
+        "Card": "00001-71-01770",
+        "Name": "ABDUL AZIZ S/O ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
     },
     {
-        "Name": "Shoaib",
-        "Card": "12747-92-17247",
-        "Khundi": "Khosa"
+        "id": "00002",
+        "Card": "00002-61-06868",
+        "Name": "ABDUL AZIZ S/O HAJI MUHAMMAD",
+        "Khundi": "ASWANI-A"
     },
     {
-        "Name": "Ali Khan",
-        "Card": "99887-65-43210",
-        "Khundi": "Sandalwood-A"
+        "id": "00004",
+        "Card": "00004-86-01233",
+        "Name": "SUMAIR S/O ABDUL RAZZAK",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00005",
+        "Card": "00005-68-00940",
+        "Name": "ABDUL GHANI S/O QASIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00006",
+        "Card": "00006-76-00993",
+        "Name": "ABDUL KARIM S/O DAWOOD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00008",
+        "Card": "00008-64-00627",
+        "Name": "ABDUL MAJEED S/O TAHIR MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00009",
+        "Card": "00009-61-04997",
+        "Name": "ABDUL RASHID S/O ABDUL KARIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00010",
+        "Card": "00010-83-01679",
+        "Name": "ABDUL RAUF S/O EBRAHIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00011",
+        "Card": "00011-82-07491",
+        "Name": "ABDUL RAUF S/O MUHAMMAD YOUNUS",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00012",
+        "Card": "00012-56-01769",
+        "Name": "ABDUL RAZZAK S/O H. ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00013",
+        "Card": "00013-69-08803",
+        "Name": "ABDUL RAZZAK S/O DAWOOD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00014",
+        "Card": "00014-54-01668",
+        "Name": "ABDUL RAZZAK S/O MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00015",
+        "Card": "00015-77-08684",
+        "Name": "ABDUL REHMAN S/O MUHAMMAD DAWOOD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00016",
+        "Card": "00016-52-07078",
+        "Name": "ABDUR REHMAN S/O HAJI ESMAIL",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00017",
+        "Card": "00017-55-09291",
+        "Name": "ABDUL GHAFFAR S/O HAJI AYUB",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00018",
+        "Card": "00018-48-05899",
+        "Name": "ABDUL REHMAN S/O SOOMAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00019",
+        "Card": "00019-83-09292",
+        "Name": "MUHAMMAD YOUSUF S/O ABDUL GHAFFAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00020",
+        "Card": "00020-77-07490",
+        "Name": "ABDUL SAMMAD S/O MUHAMMAD YOUNUS",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00021",
+        "Card": "00021-50-17506",
+        "Name": "ABDUL SATTAR S/O MUHAMMAD LATIF",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00022",
+        "Card": "00022-59-01035",
+        "Name": "SATTAR ALI MUHAMMAD S/O ALI MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00023",
+        "Card": "00023-84-09725",
+        "Name": "MUHAMMAD YASIN S/O MUHAMMAD IBRAHIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00024",
+        "Card": "00024-59-05174",
+        "Name": "ABDUL SATTAR S/O ESSA",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00025",
+        "Card": "00025-67-00626",
+        "Name": "ABDUL SATTAR S/O TAHIR MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00026",
+        "Card": "00026-66-01051",
+        "Name": "ABDUL WAHID S/O HAJI HASHIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00027",
+        "Card": "00027-85-00942",
+        "Name": "MUHAMMAD ASIF S/O QASIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00028",
+        "Card": "00028-62-08197",
+        "Name": "AHMED S/O MUHAMMAD YOUSUF",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00029",
+        "Card": "00029-75-01037",
+        "Name": "ALI MUHAMMAD S/O SATTAR ",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00030",
+        "Card": "00030-78-17982",
+        "Name": "ALTAF  S/O SULEMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00031",
+        "Card": "00031-84-04296",
+        "Name": "BILAL S/O ALI MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00032",
+        "Card": "00032-85-11869",
+        "Name": "KHALID S/O ABDUL AZIZ",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00033",
+        "Card": "00033-44-00994",
+        "Name": "DAWOOD S/O NOOR MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00035",
+        "Card": "00035-72-04297",
+        "Name": "IBRAHIM S/O ALI MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00036",
+        "Card": "00036-45-03203",
+        "Name": "EBRAHIM S/O HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00039",
+        "Card": "00039-76-36113",
+        "Name": "ABDUL LATIF S/O ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00040",
+        "Card": "00040-82-32278",
+        "Name": "HAJI MUHAMMAD  S/O GHULAM HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00041",
+        "Card": "00041-53-10267",
+        "Name": "HAROON USMAN S/O USMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00042",
+        "Card": "00042-35-08549",
+        "Name": "MUHAMMAD HASHIM S/O ABDUL LATIF",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00043",
+        "Card": "00043-74-01036",
+        "Name": "MUHAMMAD IMRAN S/O SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00044",
+        "Card": "00044-81-33960",
+        "Name": "MUHAMMAD IMRAN S/O GHULAM HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00045",
+        "Card": "00045-82-07826",
+        "Name": "MUHAMMAD IMRAN S/O MUHAMMAD HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00046",
+        "Card": "00046-70-17509",
+        "Name": "MUHAMMAD IQBAL S/O ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00047",
+        "Card": "00047-78-29463",
+        "Name": "IRFAN S/O GHULAM HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00048",
+        "Card": "00048-76-07208",
+        "Name": "M.ISMAIL S/O M.YOUSUF",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00049",
+        "Card": "00049-67-10325",
+        "Name": "JAVED AKHTAR S/O HAJI ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00050",
+        "Card": "00050-86-10328",
+        "Name": "KAMRAN S/O ABDUL REHMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00051",
+        "Card": "00051-74-07531",
+        "Name": "MUHAMMAD SOHAIL S/O MUHAMMAD SIDDIQUE",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00052",
+        "Card": "00052-78-07494",
+        "Name": "ABDUL MAJEED S/O MUHAMMAD YOUNUS",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00053",
+        "Card": "00053-72-01039",
+        "Name": "M. YOUNUS S/O M. SIDDIQUE",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00054",
+        "Card": "00054-83-01041",
+        "Name": "MUHAMMAD ASIF S/O M. SIDDIQUE",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00055",
+        "Card": "00055-75-00938",
+        "Name": "MOOSA S/O QASIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00056",
+        "Card": "00056-63-07080",
+        "Name": "MUHAMMAD AMEEN  S/O ABDUL KARIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00057",
+        "Card": "00057-65-04547",
+        "Name": "M. ASHRAF S/O HASHIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00058",
+        "Card": "00058-71-03340",
+        "Name": "MUHAMMAD ASHRAF S/O MUHAMMAD SULEMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00059",
+        "Card": "00059-52-05253",
+        "Name": "NOOR MUHAMMAD S/O MUHAMMAD YAQOOB",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00060",
+        "Card": "00060-51-05444",
+        "Name": "MUHAMMAD DAWOOD S/O HAJI AYUB",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00061",
+        "Card": "00061-70-07081",
+        "Name": "MUHAMMAD IBRAHIM S/O ABDUL KARIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00062",
+        "Card": "00062-81-15782",
+        "Name": "FAISAL S/O SULEMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00063",
+        "Card": "00063-77-12006",
+        "Name": "MUHAMMAD FARHAN S/O SALEH MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00064",
+        "Card": "00064-65-04998",
+        "Name": "MUHAMMAD HANIF S/O ABDUL KARIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00065",
+        "Card": "00065-72-02498",
+        "Name": "MUHAMMAD HANIF S/O SALEH MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00066",
+        "Card": "00066-62-10768",
+        "Name": "MUHAMMAD HAROON S/O ABDUL GHANI",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00067",
+        "Card": "00067-49-07825",
+        "Name": "MUHAMMAD HUSSAIN S/O ABDUL GHANI",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00068",
+        "Card": "00068-73-13102",
+        "Name": "M.HUSSAIN S/O M.DAWOOD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00069",
+        "Card": "00069-56-07100",
+        "Name": "MUHAMMAD IQBAL S/O ABDUL KARIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00070",
+        "Card": "00070-71-10868",
+        "Name": "MUHAMMAD IQBAL S/O DAWOOD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00071",
+        "Card": "00071-61-07079",
+        "Name": "MUHAMMAD IQBAL S/O HAJI ESMAIL",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00072",
+        "Card": "00072-73-07822",
+        "Name": "MUHAMMAD IQBAL S/O MUHAMMAD HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00073",
+        "Card": "00073-72-04999",
+        "Name": "MUHAMMAD JAVED S/O MUHAMMAD HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00074",
+        "Card": "00074-82-35678",
+        "Name": "MUHAMMAD KASSAM ASWANI S/O SULEMAN ASWANI",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00075",
+        "Card": "00075-71-32114",
+        "Name": "MUHAMMAD RAFIQ  S/O ABDUL SATTAR ",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00076",
+        "Card": "00076-72-00992",
+        "Name": "MUHAMMAD RAFIQ S/O DAWOOD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00077",
+        "Card": "00077-61-07083",
+        "Name": "MUHAMMAD RAFIQUE S/O ABDUL KARIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00078",
+        "Card": "00078-76-02499",
+        "Name": "MUHAMMAD RAFIQ S/O SALEH MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00079",
+        "Card": "00079-60-07824",
+        "Name": "MUHAMMAD SALEEM S/O ABDUL GHANI",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00080",
+        "Card": "00080-64-09724",
+        "Name": "MUHAMMAD SALEEM S/O MUHAMMAD IBRAHIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00081",
+        "Card": "00081-72-08758",
+        "Name": "MUHAMMAD SALEEM S/O MUHAMMAD SULEMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00082",
+        "Card": "00082-74-01765",
+        "Name": "M. SHAHID S/O ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00083",
+        "Card": "00083-76-05953",
+        "Name": "MUHAMMAD SUHAIL S/O MUHAMMAD HASHIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00084",
+        "Card": "00084-58-11623",
+        "Name": "MUHAMMAD SIDDIQ S/O SOOMAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00085",
+        "Card": "00085-82-35677",
+        "Name": "MUHAMMAD SHOAIB ASWANI S/O SULEMAN HAJI QASIM ASWANI",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00086",
+        "Card": "00086-69-10326",
+        "Name": "SOHAIL AKHTAR S/O HAJI ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00087",
+        "Card": "00087-74-03027",
+        "Name": "SULTAN AHMED S/O MUHAMMAD DAWOOD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00088",
+        "Card": "00088-68-07082",
+        "Name": "MUHAMMAD ALI S/O ABDUL KARIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00089",
+        "Card": "00089-74-07827",
+        "Name": "MUHAMMAD ASLAM S/O MUHAMMAD HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00090",
+        "Card": "00090-77-00003",
+        "Name": "MUHAMMAD FAROOQ S/O ABDUL LATIF",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00091",
+        "Card": "00091-76-15781",
+        "Name": "MUHAMMAD NADEEM S/O SULEMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00092",
+        "Card": "00092-76-20200",
+        "Name": "MUHAMMAD NAEEM S/O MUHAMMAD SULEMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00093",
+        "Card": "00093-85-01669",
+        "Name": "MUHAMMAD NAVEED S/O ABDUL RAZZAK",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00094",
+        "Card": "00094-81-11615",
+        "Name": "MUHAMMAD NAVEED  S/O SULEMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00095",
+        "Card": "00095-82-10327",
+        "Name": "NOMAN S/O ABDUL RAZZAK",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00096",
+        "Card": "00096-55-01052",
+        "Name": "NOOR MUHAMMAD S/O HAJI M.HASHIM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00097",
+        "Card": "00097-46-00939",
+        "Name": "QASIM S/O ABDUL GHANI",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00098",
+        "Card": "00098-85-10266",
+        "Name": "ZAIN ALI MEMON S/O HAROON",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00099",
+        "Card": "00099-54-12005",
+        "Name": "SALEH MUHAMMAD S/O MUHAMMAD",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00100",
+        "Card": "00100-52-00971",
+        "Name": "SALEH MUHAMMAD S/O MUHAMMAD HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00101",
+        "Card": "00101-76-05900",
+        "Name": "SHABBIR AHMED S/O ABDUL REHMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00102",
+        "Card": "00102-76-32245",
+        "Name": "SHAHID S/O WALI MUHAMMAD ",
+        "Khundi": "MARKATIYA-D"
+    },
+    {
+        "id": "00103",
+        "Card": "00103-81-01766",
+        "Name": "M. SHAKEEL S/O ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00104",
+        "Card": "00104-80-32239",
+        "Name": "MUHAMMAD SHOAIB S/O WALI MUHAMMAD ",
+        "Khundi": "MARKATIYA-D"
+    },
+    {
+        "id": "00105",
+        "Card": "00105-87-07181",
+        "Name": "SHOAIB SALEEM S/O MUHAMMAD SALEEM",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00106",
+        "Card": "00106-79-01768",
+        "Name": "SHAUKAT ALI  S/O ABDUL RAZZAK",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00108",
+        "Card": "00108-52-20358",
+        "Name": "SULEMAN HAJI KASSAM ASWANI S/O HAJI KASSAM ASWANI",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00109",
+        "Card": "00109-75-07530",
+        "Name": "SULEMAN S/O M.SIDDIQUE",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00110",
+        "Card": "00110-80-07823",
+        "Name": "M. TANVEER S/O M. HUSSAIN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00111",
+        "Card": "00111-82-08867",
+        "Name": "TARIQ S/O ABDUL AZIZ",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00112",
+        "Card": "00112-58-01767",
+        "Name": "USMAN GHANI S/O ABDUL SATTAR",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00113",
+        "Card": "00113-73-07493",
+        "Name": "MUHAMMAD USMAN GHANI S/O MUHAMMAD YOUNUS",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00114",
+        "Card": "00114-81-01040",
+        "Name": "MUHAMMAD YOUSUF S/O MUHAMMAD SIDDIQ",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00115",
+        "Card": "00115-48-07492",
+        "Name": "MUHAMMAD YOUNUS S/O MUHAMMAD USMAN",
+        "Khundi": "ASWANI-A"
+    },
+    {
+        "id": "00116",
+        "Card": "00116-86-16822",
+        "Name": "MUHAMMAD FAHAD S/O MUHAMMAD HAROON",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00117",
+        "Card": "00117-82-12393",
+        "Name": "ABDUL BASIT S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00118",
+        "Card": "00118-84-09519",
+        "Name": "ABDUL KARIM BARAI S/O ABDUL AZIZ",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00119",
+        "Card": "00119-69-03191",
+        "Name": "MUHAMMAD HASHIM S/O ABDUL REHMAN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00120",
+        "Card": "00120-83-03154",
+        "Name": "ABDUL SAMMAD S/O WALI MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00121",
+        "Card": "00121-58-09521",
+        "Name": "ABDUL AZIZ S/O ABDUL KARIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00122",
+        "Card": "00122-50-09522",
+        "Name": "ABDUL GHAFFAR S/O M.HASHIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00123",
+        "Card": "00123-85-09568",
+        "Name": "ABDUL WAHAB S/O ABU BAKAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00124",
+        "Card": "00124-52-12377",
+        "Name": "ABDUL GHANI S/O DAWOOD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00125",
+        "Card": "00125-56-10312",
+        "Name": "ABDUL GHANI S/O HAJI KASSIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00126",
+        "Card": "00126-58-09532",
+        "Name": "ABDUL KARIM BARAI S/O QASAIM BARAI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00127",
+        "Card": "00127-74-03156",
+        "Name": "ABDUL RAHEEM S/O WALI MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00128",
+        "Card": "00128-68-09584",
+        "Name": "ABDUL RASHEED S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00129",
+        "Card": "00129-62-09524",
+        "Name": "ABDUL RASHEED BARAI S/O MUHAMMAD SULEMAN BARAI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00130",
+        "Card": "00130-56-09515",
+        "Name": "ABDUL RAZZAK S/O HAJI ILYAS",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00131",
+        "Card": "00131-55-06130",
+        "Name": "ABDUL REHMAN S/O ABDUL LATIF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00132",
+        "Card": "00132-44-09560",
+        "Name": "ABDUL REHMAN S/O MUHAMMAD HASHIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00133",
+        "Card": "00133-49-09567",
+        "Name": "ABU BAKAR S/O YOUSUF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00134",
+        "Card": "00134-64-13529",
+        "Name": "ADAM S/O ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00135",
+        "Card": "00135-72-07453",
+        "Name": "MUHAMMAD ASIF S/O ABDUL REHMAN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00136",
+        "Card": "00136-59-11196",
+        "Name": "MUHAMMAD DAWOOD S/O HAJI ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00137",
+        "Card": "00137-80-09501",
+        "Name": "MOHAMMED FAYSAL S/O MOHAMMAD HAROON",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00138",
+        "Card": "00138-78-11394",
+        "Name": "MUHAMMAD FAISAL S/O MUHAMMAD IQBAL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00139",
+        "Card": "00139-83-16399",
+        "Name": "FARAZ IQBAL S/O MUHAMMAD IQBAL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00140",
+        "Card": "00140-64-09534",
+        "Name": "GHULAM QADIR S/O ADAM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00141",
+        "Card": "00141-51-09506",
+        "Name": "SALEH MUHAMMAD S/O WALI MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00142",
+        "Card": "00142-64-09553",
+        "Name": "ABDUL AZIZ S/O ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00143",
+        "Card": "00143-62-09544",
+        "Name": "ABDUL KARIM  S/O MUHAMMAD TAYYAB",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00144",
+        "Card": "00144-33-04942",
+        "Name": "HAJI QASIM S/O HAJI ILYAS",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00145",
+        "Card": "00145-51-09545",
+        "Name": "MUHAMMAD IQBAL S/O TAYYAB",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00146",
+        "Card": "00146-57-15021",
+        "Name": "M. YOUNUS S/O M. TAYYAB",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00147",
+        "Card": "00147-29-03747",
+        "Name": "YAQOOB S/O AHMED",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00148",
+        "Card": "00148-78-09503",
+        "Name": "MUHAMMAD HAMZA S/O M.HAROON",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00149",
+        "Card": "00149-79-09558",
+        "Name": "ABDUL RAZZAK S/O ABDUL REHMAN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00150",
+        "Card": "00150-66-13528",
+        "Name": "HASHIM  S/O ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00151",
+        "Card": "00151-82-09514",
+        "Name": "MUHAMMAD ILYAS S/O ABDUL RAZZAQ",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00152",
+        "Card": "00152-80-06131",
+        "Name": "IMRAN S/O ABDUL REHMAN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00153",
+        "Card": "00153-80-09511",
+        "Name": "MUHAMMAD IMRAN S/O MUHAMMAD HANIF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00154",
+        "Card": "00154-81-06132",
+        "Name": "IRFAN S/O ABDUL REHMAN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00155",
+        "Card": "00155-82-09513",
+        "Name": "MUHAMMAD IRFAN S/O MUHAMMAD HANIF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00156",
+        "Card": "00156-80-11198",
+        "Name": "MUHAMMAD JAVED S/O MUHAMMAD DAWOOD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00157",
+        "Card": "00157-83-09520",
+        "Name": "KAMRAN BARAI S/O ABDUL AZIZ",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00158",
+        "Card": "00158-77-03153",
+        "Name": "ABDUL AZIZ S/O WALI MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00159",
+        "Card": "00159-78-07435",
+        "Name": "MUHAMMAD KAMRAN S/O MUHAMMAD ISMAIL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00160",
+        "Card": "00160-76-07335",
+        "Name": "MUHAMMAD ASIF S/O MUHAMMAD SIDDIQUE",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00161",
+        "Card": "00161-83-12102",
+        "Name": "MUHAMMAD BILAL S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00162",
+        "Card": "00162-82-09823",
+        "Name": "FAHIM S/O IQBAL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00163",
+        "Card": "00163-37-02460",
+        "Name": "MUHAMMAD HUSSAIN S/O SALEH MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00164",
+        "Card": "00164-83-09531",
+        "Name": "KASHIF S/O ABDUL KARIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00165",
+        "Card": "00165-80-09551",
+        "Name": "MUHAMMAD RAFIQ S/O ABDUL REHMAN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00166",
+        "Card": "00166-81-02461",
+        "Name": "SHABBIR S/O MUHAMMAD HUSSAIN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00167",
+        "Card": "00167-81-09576",
+        "Name": "M.SIKANDAR S/O M.SIDDIQUE",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00168",
+        "Card": "00168-76-09546",
+        "Name": "MUHAMMAD TAYYAB S/O MUHAMMAD IQBAL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00169",
+        "Card": "00169-79-09572",
+        "Name": "MUHAMMAD MEHMOOD S/O MUHAMMAD SIDDIQUE",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00170",
+        "Card": "00170-59-07423",
+        "Name": "MUHAMMAD MOOSA S/O SULEMAN AHMED",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00171",
+        "Card": "00171-76-12378",
+        "Name": "MUHAMMAD ALI S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00172",
+        "Card": "00172-76-06015",
+        "Name": "AMIN S/O M.HUSSAIN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00173",
+        "Card": "00173-68-09583",
+        "Name": "MUHAMMAD ASHRAF S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00174",
+        "Card": "00174-71-06014",
+        "Name": "MUHAMMAD ASHRAF S/O MUHAMMAD HUSSAIN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00175",
+        "Card": "00175-66-03303",
+        "Name": "MUHAMMAD ASLAM S/O MUHAMMAD YOUSUF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00176",
+        "Card": "00176-71-09024",
+        "Name": "MUHAMMAD AYAZ S/O M.SIDDIQUE",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00177",
+        "Card": "00177-61-06100",
+        "Name": "MUHAMMAD DAWOOD S/O TAHIR MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00178",
+        "Card": "00178-74-09523",
+        "Name": "MUHAMMAD IBRAHIM S/O ABDUL GHAFFAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00179",
+        "Card": "00179-64-16208",
+        "Name": "M.FAROOQ S/O HAJI KASSIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00180",
+        "Card": "00180-70-16829",
+        "Name": "MUHAMMAD FAROOQ  S/O MUHAMMAD IQBAL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00181",
+        "Card": "00181-70-06022",
+        "Name": "MUHAMMAD HANIF S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00182",
+        "Card": "00182-58-09512",
+        "Name": "MUHAMMAD HANIF S/O ISHAQUE",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00183",
+        "Card": "00183-64-12342",
+        "Name": "MUHAMMAD HAROON S/O ABDUL LATIF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00184",
+        "Card": "00184-54-09502",
+        "Name": "MOHAMMAD HAROON S/O MOHAMMAD KASSIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00185",
+        "Card": "00185-48-06061",
+        "Name": "MUHAMMAD HUSSAIN S/O TAR MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00186",
+        "Card": "00186-83-06056",
+        "Name": "SHARJEEL S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00187",
+        "Card": "00187-88-13501",
+        "Name": "REHMAT ULLAH S/O MUHAMMAD FAROOQ",
+        "Khundi": "GANATRA-A"
+    },
+    {
+        "id": "00188",
+        "Card": "00188-54-07434",
+        "Name": "MUHAMMAD ISMAIL S/O MUHAMMAD ADAM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00189",
+        "Card": "00189-63-12380",
+        "Name": "MUHAMMAD ISMAIL S/O HAJI DAWOOD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00190",
+        "Card": "00190-47-07856",
+        "Name": "MUAHMMAD ISMAIL S/O WALI MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00191",
+        "Card": "00191-69-06697",
+        "Name": "MUHAMMAD JAVAID S/O MUHAMMAD TAYYAB",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00192",
+        "Card": "00192-80-02280",
+        "Name": "MUHAMMAD NASIR S/O ABDUL GHAFFAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00193",
+        "Card": "00193-69-06819",
+        "Name": "M. RAFIQ S/O M. SULEMAN",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00194",
+        "Card": "00194-72-01549",
+        "Name": "M. SALEEM S/O DAWOOD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00195",
+        "Card": "00195-61-02495",
+        "Name": "MUHAMMAD SALEEM S/O SULEMAN BARAI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00196",
+        "Card": "00196-74-09821",
+        "Name": "SHAHID S/O IQBAL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00197",
+        "Card": "00197-73-06023",
+        "Name": "MUHAMMAD SIDDIQUE S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00198",
+        "Card": "00198-88-14051",
+        "Name": "UMAIR ASHRAF S/O M.ASHRAF",
+        "Khundi": "JIWANI-A"
+    },
+    {
+        "id": "00199",
+        "Card": "00199-67-09518",
+        "Name": "MUHAMMAD YAQOOB S/O  YOUSUF ILYAS",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00200",
+        "Card": "00200-63-15052",
+        "Name": "MUHAMMAD YOUNUS S/O HAJI YOUSUF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00201",
+        "Card": "00201-53-11786",
+        "Name": "MUHAMMAD AYUB S/O ILYAS",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00202",
+        "Card": "00202-66-04521",
+        "Name": "MUHAMMAD KHAMISA S/O ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00203",
+        "Card": "00203-80-01303",
+        "Name": "MUSTAFA S/O MUHAMMAD ISMAIL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00204",
+        "Card": "00204-80-06024",
+        "Name": "MUHAMMAD NADEEM S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00205",
+        "Card": "00205-81-09600",
+        "Name": "NAJEEB S/O MUHAMMAD QASIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00206",
+        "Card": "00206-48-09598",
+        "Name": "MUHAMMAD QASIM S/O SALEH MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00207",
+        "Card": "00207-83-06820",
+        "Name": "MUHAMMAD SAJID S/O MUHAMMAD SALEEM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00208",
+        "Card": "00208-58-19132",
+        "Name": "SALEH MUHAMMAD S/O ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00209",
+        "Card": "00209-67-03339",
+        "Name": "SALEH MUHAMMAD S/O HAROON",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00210",
+        "Card": "00210-77-19512",
+        "Name": "M.SHAHZAD S/O M.HAROON",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00211",
+        "Card": "00211-82-11197",
+        "Name": "M.SHAKEEL S/O M.DAWOOD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00212",
+        "Card": "00212-75-09508",
+        "Name": "SHAKEEL BARAI S/O SALEH MUHAMMED",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00214",
+        "Card": "00214-77-12379",
+        "Name": "SHOUKAT ALI S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00215",
+        "Card": "00215-75-09587",
+        "Name": "MUHAMMAD SOHAIL S/O ABDUL GHANI",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00216",
+        "Card": "00216-78-09586",
+        "Name": "Muhammad Suleman Barai S/O Abdul Ghani Abdul Karim",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00217",
+        "Card": "00217-34-09509",
+        "Name": "SULEMAN S/O AHMED",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00218",
+        "Card": "00218-73-09507",
+        "Name": "M. SULTAN S/O SALEH MUHAMMAD",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00219",
+        "Card": "00219-60-05602",
+        "Name": "USMAN GHANI S/O ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00220",
+        "Card": "00220-72-09552",
+        "Name": "WALI MUHAMMAD S/O HAJI ABDUL SATTAR",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00221",
+        "Card": "00221-46-03155",
+        "Name": "WALI MUHAMMAD S/O YOUSUF",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00222",
+        "Card": "00222-85-12381",
+        "Name": "WASEEM S/O MUHAMMAD ISMAIL",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00223",
+        "Card": "00223-65-12382",
+        "Name": "MUHAMMAD YOUSUF S/O MUHAMMAD EBRAHIM",
+        "Khundi": "BARAI-A"
+    },
+    {
+        "id": "00224",
+        "Card": "00224-60-03287",
+        "Name": "ABDUL AZIZ S/O HAJI MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00225",
+        "Card": "00225-44-05934",
+        "Name": "ABDUL GHANI S/O ALI MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00226",
+        "Card": "00226-38-05809",
+        "Name": "ABDUL KARIM DAD S/O NOOR MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00227",
+        "Card": "00227-75-07084",
+        "Name": "ABDUL RASHEED S/O HAJI ABDUL SATTAR",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00229",
+        "Card": "00229-68-07085",
+        "Name": "ABDUL WAHID S/O HAJI A.SATTAR",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00230",
+        "Card": "00230-66-10750",
+        "Name": "ADAM S/O TAYYAB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00232",
+        "Card": "00232-75-01331",
+        "Name": "ALI MUHAMMAD S/O DAWOOD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00234",
+        "Card": "00234-49-03449",
+        "Name": "DAWOOD S/O ALI MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00235",
+        "Card": "00235-80-05935",
+        "Name": "ABDUL BASIT S/O SULEMAN",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00236",
+        "Card": "00236-50-08319",
+        "Name": "ABDUL RAZZAK S/O HAJI AYUB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00237",
+        "Card": "00237-71-06285",
+        "Name": "MUHAMMAD IBRAHIM S/O MUHAMMAD ALI",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00238",
+        "Card": "00238-83-06896",
+        "Name": "ASLAM S/O WALI MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00239",
+        "Card": "00239-53-09769",
+        "Name": "MUHAMMAD HANIF S/O AYUB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00241",
+        "Card": "00241-46-06284",
+        "Name": "MUHAMMAD ALI S/O ABDUL GHANI",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00242",
+        "Card": "00242-33-03289",
+        "Name": "HAJI MUHAMMAD S/O ALI MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00244",
+        "Card": "00244-86-17291",
+        "Name": "M.MUBEEN S/O NOOR MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00246",
+        "Card": "00246-68-32984",
+        "Name": "ABDUL HAMEED S/O TAYYAB DADWALA",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00247",
+        "Card": "00247-84-09771",
+        "Name": "ABDUL SAMAD S/O MUHAMMAD HANIF",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00248",
+        "Card": "00248-57-05780",
+        "Name": "M. HAROON S/O TAYYAB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00249",
+        "Card": "00249-68-19701",
+        "Name": "HASHIM  S/O ABDUL LATIF",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00250",
+        "Card": "00250-78-08320",
+        "Name": "IMRAN S/O ABDUL RAZZAK",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00251",
+        "Card": "00251-65-20008",
+        "Name": "MUHAMMAD IQBAL ADVOCATE S/O MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00252",
+        "Card": "00252-65-25008",
+        "Name": "HAJI JAWAID S/O HAJI A.SATTAR",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00253",
+        "Card": "00253-69-03288",
+        "Name": "MUHAMMAD JAVED S/O MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00254",
+        "Card": "00254-83-09770",
+        "Name": "FAISAL S/O MUHAMMAD HANIF",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00255",
+        "Card": "00255-37-10821",
+        "Name": "ABDUL LATIF S/O MOOSA",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00256",
+        "Card": "00256-74-08750",
+        "Name": "MUHAMMAD RAFIQ S/O WALI MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00257",
+        "Card": "00257-38-06046",
+        "Name": "MUHAMMAD YOUSUF S/O USMAN",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00259",
+        "Card": "00259-55-03108",
+        "Name": "MOOSA S/O MUHAMMAD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00260",
+        "Card": "00260-64-05808",
+        "Name": "MUHAMMAD ALI S/O ABDUL KARIM",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00261",
+        "Card": "00261-75-03448",
+        "Name": "MUHAMMAD ASIF S/O DAWOOD",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00262",
+        "Card": "00262-70-15551",
+        "Name": "MUHAMMAD FAROOQ S/O ABDUL GHANI",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00263",
+        "Card": "00263-70-17094",
+        "Name": "MUHAMMAD FAROOQ S/O MUHAMMAD QASIM",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00264",
+        "Card": "00264-60-10007",
+        "Name": "MUHAMMAD HANIF S/O AHMED SOOMRO",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00265",
+        "Card": "00265-66-32525",
+        "Name": "MUHAMMAD HANIF  S/O HAJI QASIM",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00266",
+        "Card": "00266-62-12929",
+        "Name": "MUHAMMAD IQBAL S/O AHMED",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00267",
+        "Card": "00267-73-34051",
+        "Name": "MUHAMMAD IQBAL DAD WALA S/O MUHAMMAD ALI DAD WALA ",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00268",
+        "Card": "00268-56-10178",
+        "Name": "MUHAMMAD IQBAL S/O HAJI AYUB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00272",
+        "Card": "00272-75-06286",
+        "Name": "MUHAMMAD RAFIQ S/O MUHAMMAD ALI",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00274",
+        "Card": "00274-60-02591",
+        "Name": "MUHAMMAD SALEEM S/O HAJI QASIM",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00276",
+        "Card": "00276-74-09461",
+        "Name": "MUHAMMAD UMAR S/O HAJI SHOUKAT",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00277",
+        "Card": "00277-58-02352",
+        "Name": "MUHAMMAD YOUSUF S/O MUHAMMAD AHMED",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00278",
+        "Card": "00278-69-04476",
+        "Name": "MUSHTAQ S/O AYUB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00279",
+        "Card": "00279-80-09772",
+        "Name": "ABDUL HAFEEZ S/O MUHAMMAD HANIF",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00280",
+        "Card": "00280-58-10179",
+        "Name": "NOOR MUHAMMAD S/O HAJI AYUB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00281",
+        "Card": "00281-64-21123",
+        "Name": "MUHAMMAD SALEEM S/O AHMED",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00282",
+        "Card": "00282-87-11685",
+        "Name": "ABDUL KARIM S/O AYUB",
+        "Khundi": "PASTA-A"
+    },
+    {
+        "id": "00283",
+        "Card": "00283-74-15552",
+        "Name": "ABDUL SAMAD S/O ABDUL GHANI",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00286",
+        "Card": "00286-87-08318",
+        "Name": "ABDUL REHMAN S/O ABDUL RAZZAK",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00288",
+        "Card": "00288-70-10582",
+        "Name": "MUHAMMAD USMAN S/O M. YOUSUF",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00289",
+        "Card": "00289-66-34315",
+        "Name": "ABDUL WAHID S/O SULEMAN ",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00290",
+        "Card": "00290-89-13452",
+        "Name": "FARHAN S/O M. ISMAIL",
+        "Khundi": "MANGRORIA-A"
+    },
+    {
+        "id": "00291",
+        "Card": "00291-60-18842",
+        "Name": "MUHAMMAD YOUNUS S/O MUHAMMAD TAYYAB",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00292",
+        "Card": "00292-84-08321",
+        "Name": "JUNAID S/O ABDUL RAZZAK",
+        "Khundi": "DADWALA-A"
+    },
+    {
+        "id": "00293",
+        "Card": "00293-44-04005",
+        "Name": "MUHAMMAD HUSSAIN S/O TAHIR MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00294",
+        "Card": "00294-52-01673",
+        "Name": "ABDUL AZIZ S/O WALI MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00295",
+        "Card": "00295-68-29442",
+        "Name": "MUHAMMAD AMIN S/O SATTAR ",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00296",
+        "Card": "00296-50-04506",
+        "Name": "ABDUL KARIM S/O MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00297",
+        "Card": "00297-56-03044",
+        "Name": "ABDUL RASHEED S/O TAYYAB",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00298",
+        "Card": "00298-55-05615",
+        "Name": "ABDUL RASHEED S/O USMAN",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00299",
+        "Card": "00299-43-10909",
+        "Name": "ABDUL REHMAN S/O WALI MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00300",
+        "Card": "00300-42-05616",
+        "Name": "ABDUL SATTAR S/O USMAN",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00301",
+        "Card": "00301-59-12366",
+        "Name": "ABDULLAH S/O TAYYAB",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00302",
+        "Card": "00302-74-08030",
+        "Name": "MUHAMMAD AFFAN S/O M.HASHIM",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00303",
+        "Card": "00303-70-20431",
+        "Name": "MUHAMMAD ALTAF S/O MUHAMMAD ISMAIL",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00304",
+        "Card": "00304-72-06425",
+        "Name": "M. ASHRAF S/O M IBRAHIM",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00305",
+        "Card": "00305-56-18807",
+        "Name": "MUHAMMAD ISMAIL S/O HAJI MOOSA",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00306",
+        "Card": "00306-57-03043",
+        "Name": "MUHAMMAD FAROOQ S/O TAYYAB",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00307",
+        "Card": "00307-63-21387",
+        "Name": "ABDUL HAMEED S/O SALEH MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00308",
+        "Card": "00308-46-08032",
+        "Name": "M.HASHIM S/O WALI MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00309",
+        "Card": "00309-58-06424",
+        "Name": "M. IBRAHIM S/O H. M. MOOSA",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00310",
+        "Card": "00310-55-01646",
+        "Name": "MUHAMMAD IQBAL S/O DAWOOD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00311",
+        "Card": "00311-54-16820",
+        "Name": "MUHAMMAD IQBAL S/O MUHAMMAD MOOSA",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00312",
+        "Card": "00312-58-04006",
+        "Name": "M.ISHAQUE S/O TAHIR MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00313",
+        "Card": "00313-39-05610",
+        "Name": "ISMAIL S/O WALI MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00314",
+        "Card": "00314-66-20388",
+        "Name": "M.JAWEED S/O M.ISMAIL",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00315",
+        "Card": "00315-67-03976",
+        "Name": "MAHMOOD DARBAR S/O MUHAMMAD MOOSA",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00316",
+        "Card": "00316-78-04007",
+        "Name": "MUHAMMAD ANIS S/O MUHAMMAD HUSSAIN",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00318",
+        "Card": "00318-47-09700",
+        "Name": "M.HUSSAIN S/O WALI MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00319",
+        "Card": "00319-80-04008",
+        "Name": "MUHAMMAD OWAIS S/O MUHAMMAD HUSSAIN",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00320",
+        "Card": "00320-64-05611",
+        "Name": "MUHAMMAD SAEED S/O M.ISMAIL",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00321",
+        "Card": "00321-71-13699",
+        "Name": "M.SIDDIQ S/O SALEH MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00322",
+        "Card": "00322-62-06663",
+        "Name": "YOUNUS S/O SALEH MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00323",
+        "Card": "00323-54-11017",
+        "Name": "MUHAMMAD YOUNUS S/O TAYYAB",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00324",
+        "Card": "00324-83-09699",
+        "Name": "M.NAVEED S/O M.HUSSAIN",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00325",
+        "Card": "00325-51-08736",
+        "Name": "NOOR MUHAMMAD S/O DAWOOD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00326",
+        "Card": "00326-84-08031",
+        "Name": "M.RIZWAN S/O M.HASHIM",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00327",
+        "Card": "00327-53-03028",
+        "Name": "M.SALEEM S/O WALI MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00328",
+        "Card": "00328-81-08737",
+        "Name": "SHAHZAD S/O NOOR MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00329",
+        "Card": "00329-78-01674",
+        "Name": "M. SHAKEEL S/O ABDUL AZIZ",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00330",
+        "Card": "00330-76-13700",
+        "Name": "SHAKEEL AHMED S/O SALEH MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00331",
+        "Card": "00331-71-08735",
+        "Name": "MUHAMMAD SOHAIL S/O NOOR MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00332",
+        "Card": "00332-62-12950",
+        "Name": "MOHAMMED SULEMAN S/O ISMAIL",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00333",
+        "Card": "00333-68-32151",
+        "Name": "MUHAMMAD TARIQ  S/O ABDUL REHMAN ",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00334",
+        "Card": "00334-75-11016",
+        "Name": "TARIQ AZIZ S/O MUHAMMAD YOUNUS",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00335",
+        "Card": "00335-63-08417",
+        "Name": "ABDUL WAHID S/O HAJI MOOSA",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00336",
+        "Card": "00336-75-00010",
+        "Name": "WALI MUHAMMAD S/O MUHAMMAD HUSSAIN",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00337",
+        "Card": "00337-81-09698",
+        "Name": "MUHAMMAD YASEEN DARBAR S/O MUHAMMAD HUSSAIN",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00338",
+        "Card": "00338-54-04507",
+        "Name": "M.YOUNUS S/O MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00339",
+        "Card": "00339-82-08734",
+        "Name": "ZEESHAN S/O NOOR MUHAMMAD",
+        "Khundi": "DARBAR-A"
+    },
+    {
+        "id": "00340",
+        "Card": "00340-83-15878",
+        "Name": "FAHEEM MEMON S/O MUHAMMAD IQBAL",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00341",
+        "Card": "00341-42-04838",
+        "Name": "ABDUL KARIM S/O MUHAMMAD ISMAIL",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00342",
+        "Card": "00342-79-08046",
+        "Name": "ABDUL KHALIQ S/O SULEMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00343",
+        "Card": "00343-65-11354",
+        "Name": "ABDUL QADIR S/O MUHAMMAD USMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00344",
+        "Card": "00344-70-03619",
+        "Name": "ABDUL RASHEED S/O WALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00345",
+        "Card": "00345-54-11139",
+        "Name": "ABDUL RAZZAK S/O WALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00346",
+        "Card": "00346-63-02784",
+        "Name": "ABDUL SATTAR S/O TAHIR MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00347",
+        "Card": "00347-81-10064",
+        "Name": "MUHAMMAD SHOAIB S/O MUHAMMAD TAYYAB",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00348",
+        "Card": "00348-65-15308",
+        "Name": "ABDUL RAZZAK S/O MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00349",
+        "Card": "00349-59-12947",
+        "Name": "ABDUL REHMAN S/O MOHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00351",
+        "Card": "00351-72-04808",
+        "Name": "SHOUKAT ALI S/O SULEMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00352",
+        "Card": "00352-61-04819",
+        "Name": "ABUBAKER S/O AHMED",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00353",
+        "Card": "00353-83-12365",
+        "Name": "SAJID S/O MUHAMMAD SIDDIQ",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00354",
+        "Card": "00354-64-10059",
+        "Name": "MUHAMMAD ADAM S/O MUHAMMAD QASIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00356",
+        "Card": "00356-46-05852",
+        "Name": "M.EBRAHIM S/O MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00357",
+        "Card": "00357-56-16009",
+        "Name": "MUHAMMAD IQBAL S/O ABDUL KARIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00358",
+        "Card": "00358-84-12364",
+        "Name": "SAJJAD SIDDIQ S/O MUHAMMAD SIDDIQ",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00359",
+        "Card": "00359-57-02471",
+        "Name": "ABDUL AZIZ S/O WALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00361",
+        "Card": "00361-60-10054",
+        "Name": "ABDUL RASHEED S/O ABDUL KARIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00362",
+        "Card": "00362-64-10055",
+        "Name": "ABDUL REHMAN S/O ABDUL KARIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00363",
+        "Card": "00363-68-10051",
+        "Name": "MUHAMMAD ASLAM S/O HAJI WALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00364",
+        "Card": "00364-58-04841",
+        "Name": "MUHAMMAD FAROOQ S/O ABDUL KARIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00365",
+        "Card": "00365-65-10052",
+        "Name": "MUHAMMAD HANIF S/O HAJI WALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00366",
+        "Card": "00366-53-04812",
+        "Name": "MUHAMMAD HAROON S/O QASIM ",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00367",
+        "Card": "00367-55-01166",
+        "Name": "MUHAMMAD IQBAL S/O M.DAWOOD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00368",
+        "Card": "00368-41-04828",
+        "Name": "MUHAMMAD USMAN S/O MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00369",
+        "Card": "00369-86-04842",
+        "Name": "ZAIN S/O M. FAROOQ",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00370",
+        "Card": "00370-28-04810",
+        "Name": "WALI MUHAMMAD S/O TAHIR MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00371",
+        "Card": "00371-38-07951",
+        "Name": "MUHAMMAD DAWOOD S/O MUHAMMAD JUMMA",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00372",
+        "Card": "00372-71-08145",
+        "Name": "MUHAMMAD HANIF S/O QASIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00373",
+        "Card": "00373-80-10983",
+        "Name": "MUHAMMAD IMRAN S/O MUHAMMAD USMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00374",
+        "Card": "00374-89-13306",
+        "Name": "MUHAMMAD SUFYAN S/O ABDUL RAZZAK",
+        "Khundi": "JAKHURA-A"
+    },
+    {
+        "id": "00375",
+        "Card": "00375-63-04833",
+        "Name": "MUHAMMAD ARIF S/O MUHAMMAD ESSA",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00376",
+        "Card": "00376-70-04826",
+        "Name": "MUHAMMAD ASHRAF S/O MUHAMMAD USMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00377",
+        "Card": "00377-50-04817",
+        "Name": "MUHAMMAD EBRAHIM S/O DAWOOD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00378",
+        "Card": "00378-61-07830",
+        "Name": "IBRAHIM S/O ALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00379",
+        "Card": "00379-71-09754",
+        "Name": "M.FAROOQ S/O ADAM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00380",
+        "Card": "00380-66-04827",
+        "Name": "MUHAMMAD FAROOQ S/O MUHAMMAD USMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00381",
+        "Card": "00381-61-04523",
+        "Name": "MUHAMMAD HAROON S/O SULEMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00382",
+        "Card": "00382-64-11907",
+        "Name": "M.HUSSAIN S/O DAWOOD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00383",
+        "Card": "00383-76-10169",
+        "Name": "MUHAMMAD HUSSAIN S/O TAHIR MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00384",
+        "Card": "00384-58-09889",
+        "Name": "MUHAMMAD IQBAL S/O MUHAMMAD DAWOOD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00385",
+        "Card": "00385-59-06571",
+        "Name": "MUHAMMAD IQBAL S/O ALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00386",
+        "Card": "00386-88-13601",
+        "Name": "ABDUL BASIT S/O MUHAMMAD SALEEM",
+        "Khundi": "JIWANI-A"
+    },
+    {
+        "id": "00387",
+        "Card": "00387-60-13629",
+        "Name": "MUHAMMAD IQBAL S/O MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00388",
+        "Card": "00388-76-07930",
+        "Name": "IRFAN S/O MOOSA",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00389",
+        "Card": "00389-81-07128",
+        "Name": "MUHAMMAD IRFAN S/O MUHAMMAD YOUSUF",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00390",
+        "Card": "00390-71-04837",
+        "Name": "MUHAMMAD ISMAIL S/O ABDUL KARIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00391",
+        "Card": "00391-72-05853",
+        "Name": "MUHAMMAD ISMAIL S/O MUHAMMAD IBRAHIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00392",
+        "Card": "00392-56-04835",
+        "Name": "MUHAMMAD ISMAIL S/O MUHAMMAD ESSA",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00393",
+        "Card": "00393-73-08950",
+        "Name": "MUHAMMAD JAWED S/O MUHAMMAD MOOSA",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00394",
+        "Card": "00394-68-07995",
+        "Name": "MUHAMMAD JAVED S/O TAHIR MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00395",
+        "Card": "00395-57-07269",
+        "Name": "MUHAMMAD JUMMA S/O MUHAMMAD DAWOOD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00396",
+        "Card": "00396-45-07332",
+        "Name": "MOOSA S/O SALEH MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00397",
+        "Card": "00397-79-04811",
+        "Name": "MUHAMMAD QASIM S/O MUHAMMAD HAROON",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00398",
+        "Card": "00398-63-04821",
+        "Name": "MUHAMMAD RAFIQ S/O QASIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00399",
+        "Card": "00399-64-02267",
+        "Name": "MUHAMMAD SALEEM S/O ABDUL SATTAR",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00400",
+        "Card": "00400-63-13803",
+        "Name": "M.SALEEM S/O SULEMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00401",
+        "Card": "00401-66-07831",
+        "Name": "M. SALEEM S/O TAHIR MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00402",
+        "Card": "00402-77-10518",
+        "Name": "SHAHID SIDDIQ S/O MUHAMMAD SIDDIQUE",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00403",
+        "Card": "00403-76-08701",
+        "Name": "SHAID S/O QASIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00404",
+        "Card": "00404-74-11353",
+        "Name": "MUHAMMAD SHAKEEL S/O MUHAMMAD USMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00405",
+        "Card": "00405-68-08146",
+        "Name": "SHOUKAT ALI S/O QASIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00406",
+        "Card": "00406-65-11476",
+        "Name": "MUHAMMAD SIDDIQ S/O ALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00407",
+        "Card": "00407-64-12139",
+        "Name": "MUHAMMAD SIDDIQUE S/O MUHAMMAD YOUSUF",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00408",
+        "Card": "00408-50-04809",
+        "Name": "SULEMAN S/O ALI MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00409",
+        "Card": "00409-76-04806",
+        "Name": "MUHAMMAD SULTAN S/O SULEMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00410",
+        "Card": "00410-48-03726",
+        "Name": "USMAN S/O MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00411",
+        "Card": "00411-72-01163",
+        "Name": "M. YAMEEN S/O TAHIR MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00412",
+        "Card": "00412-66-04820",
+        "Name": "MUHAMMAD YASEEN S/O QASIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00413",
+        "Card": "00413-50-07127",
+        "Name": "MUHAMMAD YOUSUF S/O SULEMAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00414",
+        "Card": "00414-82-08144",
+        "Name": "AQEEL S/O QASIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00415",
+        "Card": "00415-82-06225",
+        "Name": "MUHAMMAD ASIF S/O TAHIR MUHAMMAD",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00416",
+        "Card": "00416-88-13625",
+        "Name": "MUHAMMAD SUNIL  S/O MUHAMMAD IQBAL",
+        "Khundi": "JIWANI-A"
+    },
+    {
+        "id": "00417",
+        "Card": "00417-75-04836",
+        "Name": "M.FAISAL S/O ABDUL KARIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00418",
+        "Card": "00418-84-02375",
+        "Name": "FARHAN S/O ABDUL AZIZ",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00419",
+        "Card": "00419-65-07061",
+        "Name": "M.FAROOQ S/O ISMAIL",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00420",
+        "Card": "00420-84-08712",
+        "Name": "MUHAMMAD QASIM S/O MUHAMMAD SULTAN",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00421",
+        "Card": "00421-80-05855",
+        "Name": "MUHAMMAD IMRAN S/O M.EBRAHIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00422",
+        "Card": "00422-64-08715",
+        "Name": "M.KHALID S/O M.ISMAIL",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00423",
+        "Card": "00423-78-05854",
+        "Name": "MUHAMMAD NASIR S/O M.EBRAHIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00424",
+        "Card": "00424-57-07062",
+        "Name": "M.RAFIQUE S/O M. ISMAIL",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00425",
+        "Card": "00425-82-02469",
+        "Name": "RIZWAN S/O ABDUL AZIZ",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00426",
+        "Card": "00426-85-04839",
+        "Name": "MUHAMMAD YASEEN S/O ABDUL KAREEM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00427",
+        "Card": "00427-81-04813",
+        "Name": "MUSTAFA S/O MUHAMMAD HAROON",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00428",
+        "Card": "00428-58-04831",
+        "Name": "NOOR MUHAMMAD S/O ADAM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00429",
+        "Card": "00429-84-12526",
+        "Name": "MUHAMMAD SHEHZAD S/O MUHAMMAD IQBAL",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00430",
+        "Card": "00430-83-04818",
+        "Name": "SAJID S/O MUHAMMAD IBRAHIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "00431",
+        "Card": "00431-67-34350",
+        "Name": "SALEH MUHAMMAD  S/O ABDUL KARIM",
+        "Khundi": "DARIYA-A"
+    },
+    {
+        "id": "99999",
+        "Card": "99999-99-99999",
+        "Name": "testting person",
+        "Khundi": "testing-A"
     }
 ]
