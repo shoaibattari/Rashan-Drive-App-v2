@@ -69,7 +69,7 @@ const CardSearch = () => {
         </section>
       </header>
 
-      <div className="md:text-3xl mt-6 p-4 md:p-8 items-center rounded-2xl justify-center bg-slate-700">
+      <div className="md:text-3xl mt-6 p-4 md:p-8 items-center rounded-2xl justify-center bg-slate-500">
         <label className=" mb-4 ">
           <span className="text-white">Enter Card Number:</span>
           <input
@@ -87,7 +87,11 @@ const CardSearch = () => {
         >
           Search
         </button>
-
+        {userNotFound && (
+          <p className=" text-red-300 mt-1">
+            User Card Number: {searchInput} not found in the database.
+          </p>
+        )}
         {searchInput.length >= 5 && searchResult && (
           <div className="mt-4">
             {alreadyPurchased ? (
@@ -104,16 +108,15 @@ const CardSearch = () => {
                             <table className="w-full">
                               <thead>
                                 <tr>
-                                  <th className="border border-gray-300 p-2">
-                                    Already Purchased
-                                  </th>
-                                  <th className="border  border-gray-300 p-2">
-                                    Details:
+                                  <th className=" p-2">
+                                    <p className="text-center">
+                                      Already Purchased
+                                    </p>
                                   </th>
                                 </tr>
                               </thead>
                               <tbody>
-                              <tr>
+                                <tr>
                                   <td className="border border-gray-300 p-2">
                                     Card Number
                                   </td>
@@ -159,14 +162,6 @@ const CardSearch = () => {
                                   </td>
                                   <td className="border border-gray-300 p-2 text-gray-600">
                                     {purchase.Area}
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td className="border border-gray-300 p-2">
-                                    Package
-                                  </td>
-                                  <td className="border border-gray-300 p-2 text-gray-600">
-                                    {purchase.Package}
                                   </td>
                                 </tr>
                               </tbody>

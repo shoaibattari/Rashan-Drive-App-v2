@@ -65,9 +65,7 @@ export default function Page({ params }) {
   };
 
   useEffect(() => {
-    const foundUser = membersData.find(
-      (member) => member.id === params.number
-    );
+    const foundUser = membersData.find((member) => member.id === params.number);
     setUser(foundUser);
   }, [params.number]);
 
@@ -80,26 +78,11 @@ export default function Page({ params }) {
 
   return (
     <>
-      <div ref={(el) => setComponentRef(el)}>
-        <div className="container">
-          <header className="flex">
-            <section>
-              <Image src={Logo} width={175} height={50} alt="logo" />
-            </section>
-            <section className="text-center  space-y-6 mt-3 mb-3">
-              <h1 className="text-2xl font-extrabold md:text-4xl">
-                THE OKHAI MEMON JAMAT
-              </h1>
-              <h1 className=" text-1xl md:text-3xl font-extrabold">
-                RAMZAN DISCOUNT RATION SCHEME
-              </h1>
-            </section>
-          </header>
-          <div className="flex justify-between">
+      <div className="flex justify-between ">
             <div>
               <ReactToPrint
                 trigger={() => (
-                  <button className="text-2xl font-bold bg-white text-blue-500 py-2 px-4 rounded-md">
+                  <button className="text-2xl font-bold bg-green-300 hover:bg-green-200 text-blue-500 py-2 px-4 rounded-md">
                     Print Bill
                   </button>
                 )}
@@ -108,24 +91,41 @@ export default function Page({ params }) {
                 pageStyle="print"
               />
             </div>
-            <span>
+            <span >
               <Link href={"/booking"}>
-                <button className="text-2xl font-bold bg-white text-blue-500 py-2 px-4 rounded-md">
+                <button className="text-2xl font-bold bg-blue-300 hover:bg-blue-200 text-blue-500 py-2 px-4 rounded-md">
                   New Order
                 </button>
               </Link>
             </span>
           </div>
+      <div ref={(el) => setComponentRef(el)}>
+        <div className="container">
+          <header className="flex">
+            <section>
+              <Image src={Logo} width={150} height={20} alt="logo" />
+            </section>
+            <section className="text-center mt-6  space-y-6">
+              <h1 className="text-2xl font-extrabold -mt-5 md:text-4xl">
+                THE OKHAI MEMON JAMAT
+              </h1>
+              <h1 className=" text-1xl md:text-3xl font-extrabold">
+                RAMZAN BACHAT PACKAGE 2024
+              </h1>
+            </section>
+          </header>
+
+        
           <div>
             <div>
               {user ? (
                 <div className="bg-green-50 mt-2 font-bold text-lg border border-x-2 border-y-2 p-2  rounded-md shadow-md grid grid-cols-3 ">
                   <p className="text-lg font-semibold">
-                    Invoice: {`${getCurrentDate()}${user.Card.substring(0, 5)}`}
+                  Invoice Number: {`20243${user.Card.substring(0, 5)}`}
                   </p>
                   <p>Date: {getCurrentDate()}</p>
                   <p>Khundi: {user.Khundi}</p>
-                  <p className="text-1xl">Name: {user.Name}</p>
+                  <p className="text-1xl ">Name: {user.Name}</p>
                   <p className="text-1xl">
                     Card Number:{<br />} {user.Card}
                   </p>
@@ -165,7 +165,7 @@ export default function Page({ params }) {
                           S.No
                         </th>
                         <th className="border bg-gray-700 text-gray-100">
-                          Item
+                          Items Description
                         </th>
                         <th className="border bg-gray-700 text-gray-100">
                           Quantity
@@ -187,35 +187,29 @@ export default function Page({ params }) {
                       ))}
                     </tbody>
                   </table>
+                </div>
 
-                  <div>
-                    <div className="flex md:text-2xl  border-3 border font-semibold justify-around bg-green-300">
-                      <p>MARKET VALUE:</p>
-                      <p>RS- 5000</p>
-                    </div>
-                  </div>
-                  <div>
-                    <div className="flex  md:text-2xl  border-3 border font-semibold justify-around bg-green-300">
-                      <p>DISCOUNT VALUE:</p>
-                      <p>RS- 2500</p>
-                    </div>
-                  </div>
-                  <div>
-                    <div className="flex  md:text-2xl  border-3 border font-semibold justify-around bg-green-300">
-                      <p>PACKAGE VALUE:</p>
-                      <p>RS- 2500</p>
-                    </div>
-                  </div>
+                <div className="flex  md:text-3xl  border-3 border font-semibold justify-end pr-16 bg-green-100">
+                  <p className="pr-9">PACKAGE VALUE:</p>
+                  <p>RS- 2500</p>
                 </div>
               </ul>
             </div>
-            <div className="bg-gray-500 my-2">
-              <p className="text-1xl uppercase italic text-gray-200 px-2 font-bold">
-                app create by: Shoaib Abdul Sattar Khosa{" "}
-              </p>
-              <p className="text-1xl uppercase italic text-gray-200 px-2 font-semibold">
-                MEMON DIGITAL TECH CLUB 0323-2579204
-              </p>
+            <div className="bg-gray-500 my-2 grid grid-cols-2 ">
+              <div>
+                <p className="text-sm uppercase italic text-gray-200 px-2 font-bold ">
+                  app create by:{" "}
+                  <div className="text-lg"> Shoaib Abdul Sattar Khosa</div>
+                </p>
+                <p className=" text-sm uppercase italic text-gray-200 px-2 font-semibold">
+                  MEMON DIGITAL TECH CLUB 0323-2579204
+                </p>
+              </div>
+              <div>
+                <h1 className="uppercase bg-gray-300 italic text-gray-800 h-full text-2xl p-2 leading-relaxed font-serif text-extrabold text-wrap">
+                  <p className=" text-lg italic">OnBoard:</p> Lawazim Committee
+                </h1>
+              </div>
             </div>
 
             <div className=" px-4 rounded-md shadow-md bg-gray-200 my-4 border border-black ">
@@ -224,19 +218,19 @@ export default function Page({ params }) {
               </p>
               {user ? (
                 <div className="grid grid-cols-2">
-                <p className="text-1xl">Date: {getCurrentDate()}</p>
-                <p className="text-1xl">Name: {user.Name}</p>
-                <p className="text-1xl">Khundi: {user.Khundi}</p>
-                <p className="text-1xl">
-                  Invoice Number:{" "}
-                  {`${getCurrentDate()}${user.Card.substring(0, 5)}`}
-                </p>
-              </div>
+                  <p className="text-1xl">Area: {selectedArea || "-"}</p>
+                  <p className="text-1xl">Date: {getCurrentDate()}</p>
+                  <p className="text-1xl">
+                    Invoice Number: {`20243${user.Card.substring(0, 5)}`}
+                  </p>
+                  <p className="text-1xl">Name: {user.Name}</p>
+                  <p className="text-1xl">OMJ Card: {user.Card}</p>
+
+                  <p className="text-1xl">Khundi: {user.Khundi}</p>
+                </div>
               ) : (
                 <p className="text-gray-500">No user found</p>
               )}
-              <p className="text-1xl">Area: {selectedArea || "-"}</p>
-
             </div>
             <div className=" px-4 rounded-md shadow-md bg-green-100 border border-black">
               <p className="text-lg font-semibold underline underline-offset-4 text-center border   ">
@@ -244,18 +238,19 @@ export default function Page({ params }) {
               </p>
               {user ? (
                 <div className="grid grid-cols-2">
+                  <p className="text-1xl">Area: {selectedArea || "-"}</p>
                   <p className="text-1xl">Date: {getCurrentDate()}</p>
-                  <p className="text-1xl">Name: {user.Name}</p>
-                  <p className="text-1xl">Khundi: {user.Khundi}</p>
                   <p className="text-1xl">
-                    Invoice Number:{" "}
-                    {`${getCurrentDate()}${user.Card.substring(0, 5)}`}
+                    Invoice Number: {`20243${user.Card.substring(0, 5)}`}
                   </p>
+                  <p className="text-1xl">Name: {user.Name}</p>
+                  <p className="text-1xl">OMJ Card: {user.Card}</p>
+
+                  <p className="text-1xl">Khundi: {user.Khundi}</p>
                 </div>
               ) : (
                 <p className="text-gray-500">No user found</p>
               )}
-              <p className="text-1xl">Area: {selectedArea || "-"}</p>
             </div>
           </div>
         </div>
