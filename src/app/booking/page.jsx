@@ -16,13 +16,13 @@ const CardSearch = () => {
   const router = useRouter(); // Initialize useRouter
 
   const handleSearch = () => {
-    const result = members.filter((member) => member.Card === searchInput);
+    const result = members.filter((member) => member.id === searchInput);
 
     if (result.length > 0) {
       setSearchResult(result);
 
       const userPurchases = purchases.filter(
-        (purchase) => purchase.Card === searchInput
+        (purchase) => purchase.id === searchInput
       );
 
       if (userPurchases.length > 0) {
@@ -41,7 +41,7 @@ const CardSearch = () => {
       setPurchaseData(null);
 
       const foundInPurchases = purchases.find(
-        (purchase) => purchase.Card === searchInput
+        (purchase) => purchase.id === searchInput
       );
 
       if (foundInPurchases) {
@@ -75,14 +75,14 @@ const CardSearch = () => {
           <input
             type="text"
             value={searchInput}
-            placeholder="12345-12-12345"
+            placeholder="12345 first 5 number"
             className="p-2 border rounded-lg mx-0 md:mx-6"
             onChange={(e) => setSearchInput(e.target.value)}
           />
         </label>
         <button
           onClick={handleSearch}
-          // disabled={searchInput.length < 1}
+          disabled={searchInput.length < 1}
           className=" mx-2 px-4 md:mx-1 md:px-3 bg-blue-500 text-white p-2 rounded-lg"
         >
           Search
@@ -113,6 +113,14 @@ const CardSearch = () => {
                                 </tr>
                               </thead>
                               <tbody>
+                              <tr>
+                                  <td className="border border-gray-300 p-2">
+                                    Card Number
+                                  </td>
+                                  <td className="border border-gray-300 p-2 text-gray-600">
+                                    {purchase.Card}
+                                  </td>
+                                </tr>
                                 <tr>
                                   <td className="border border-gray-300 p-2">
                                     Invoice

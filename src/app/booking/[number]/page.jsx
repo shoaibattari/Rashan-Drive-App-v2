@@ -66,7 +66,7 @@ export default function Page({ params }) {
 
   useEffect(() => {
     const foundUser = membersData.find(
-      (member) => member.Card === params.number
+      (member) => member.id === params.number
     );
     setUser(foundUser);
   }, [params.number]);
